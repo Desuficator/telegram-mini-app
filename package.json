@@ -1,5 +1,6 @@
 {
     "name": "telegram-mini-app-poc",
+    "homepage": "https://Desuficator.github.io/telegram-mini-app",
     "private": true,
     "version": "0.0.0",
     "type": "module",
