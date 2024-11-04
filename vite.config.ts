@@ -8,7 +8,7 @@ export default defineConfig({
     build: {
         outDir: './docs',
     },
-    base: './',
+    base: '/telegram-mini-app/',
     server: {
         port: 5174,
     },
